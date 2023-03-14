@@ -2,4 +2,4 @@ I created this application together with a fellow student for the course Algorit
 
 More information:
 
-https://sweck.de/ArcadeAutomat/
+https://simonweck.de/Work/Arcade-Automat
